@@ -13,5 +13,3 @@ module.exports = function warmup(temperature) {
          return 104;
     }
 };
-
-const vvv = warmup(155);
